@@ -1,3 +1,3 @@
 # weatherapp
 
-Copy these code and use a code editor to run the weather app as a localhost on your system.
+We access data from the OpenWeatherMap API and build a weather app using HTML, JavaScript and CSS.
